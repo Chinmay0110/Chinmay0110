@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chinmay0110
-- 👀 I’m interested in Data Visualization
-- 🌱 I’m currently learning Power BI
-- 💞️ I’m looking to collaborate on Interactive Dashboards
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Java and Android Studio
+- 💞️ I’m looking to collaborate on Android Application
 - 📫 How to reach me contact me here or on Linkedin (Chinmay Karandikar)
 
 <!---
